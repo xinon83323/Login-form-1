@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: border-box;
+    color: rgb(235, 234, 235);
+    background-color: rgb(14, 13, 16);
+}
+
+#heading{
+    text-align: center;
+    margin-top: 70px;
+}
+.container{
+    text-align: center;
+    margin-top: 35px;
+}
+input{
+    height: 30px;
+    width: 150px;
+    border-radius: 3px 3px 3px 3px ;
+    border: 2px solid grey;
+    padding-inline-start: 10%;
+}
+#btn {
+    color: rgb(40, 46, 46);
+    background-color: rgb(39, 135, 169);
+    margin-top: 20px;
+    border:2px solid rgb(66, 49, 52);
+    height: 34px;
+    width: 201px;
+    margin-left: 42.5%;
+    border-radius: 6px 6px 6px 6px ;
+    padding-top: 10px;
+    
+}
